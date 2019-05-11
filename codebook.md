@@ -1,3 +1,12 @@
+Observations:  
+=========================================  
+LAYING  
+SITTING  
+STANDING  
+WALKING  
+WALKING_DOWNSTAIRS  
+WALKING_UPSTAIRS  
+
 Variables:  
 ======================================  
 Activity tBodyAcc-mean()-X   
@@ -88,11 +97,4 @@ angle(Y,gravityMean)
 angle(Z,gravityMean)  
   
   
-Observations Labels:  
-=========================================  
-LAYING  
-SITTING  
-STANDING  
-WALKING  
-WALKING_DOWNSTAIRS  
-WALKING_UPSTAIRS  
+
